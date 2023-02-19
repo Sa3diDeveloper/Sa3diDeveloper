@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Sa3di Mobile App Developer</h3>
 Hi 👋, I'm Saadi Nice to see you 😍😎.<br>
 I,am passionate about quality software & Programming.<br>
 
@@ -52,13 +52,10 @@ I live in Iraq-Kurdistan.👩 I speak fluent English, fluent Kurdish.<br>
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sa3dideveloper&show_icons=true&locale=en&layout=compact"
-        alt="sa3dideveloper" /></p>
+
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=sa3dideveloper&show_icons=true&locale=en"
         alt="sa3dideveloper" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sa3dideveloper&"
-        alt="sa3dideveloper" /></p>
+
