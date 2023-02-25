@@ -2,7 +2,7 @@
 Hi 👋, I'm Saadi Nice to see you 😍😎.<br>
 I,am passionate about quality software & Programming.<br>
 
-Hi 👋🏻 I'm Saadi 👩‍💻💙📱 I am a mobile App development expert.<br>
+Hi 👋🏻 I'm Saadi 👩‍💻💙📱 I am a mobile App development.<br>
 passionate about quality software & Programming &Ui/Ux Design.<br>
 Focusing on Flutter, Firebase, Sqlite, Dart, Java, Kotlin and DevOps Engineering.<br>
 A few facts about me: 
