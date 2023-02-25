@@ -10,7 +10,7 @@ A few facts about me:
 😍 I am passionate about what I do, and programming is my major hobby.<br>
 💙 I am a Freelancer Developer Expert in Dart and Flutter.<br>
 ✍🏻 I also have an interest in mobile apps design & DevOps Engineering.<br>
-I live in Iraq-Kurdistan.👩 I speak fluent English, fluent Kurdish.<br>
+I live in Iraq-Kurdistan.👩 I speak English, fluent Kurdish.<br>
 
 
 
