@@ -1,11 +1,10 @@
-
 <h3 align="center">I'm Sa3di Mobile Software Developer</h3>
 Hi 👋, I'm Saadi Nice to see you 😍😎.<br>
 I,am passionate about quality software & Programming.<br>
 
 Hi 👋🏻 I'm Saadi 👩‍💻💙📱 I am a mobile App development.<br>
 passionate about quality software & Programming &Ui/Ux Design.<br>
-Focusing on Flutter, Firebase, Sqlite, Dart, Java, Kotlin and DevOps Engineering Tools.<br>
+Focusing on Flutter, Firebase, Sqlite, Dart, Java, Kotlin and DevOps Engineering.<br>
 A few facts about me:
 👩‍💻 For 3 years I have been creating cross-platform apps using Flutter.<br>
 😍 I am passionate about what I do, and programming is my major hobby.<br>
@@ -34,12 +33,7 @@ I live in Iraq-Kurdistan. I speak English, fluent Kurdish.<br>
                 height="40" />
         </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-                height="40" /> </a> 
-                
-                <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-                    src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"
-                    alt="android" width="40" height="40" /> </a>
-                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+                height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
         </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
