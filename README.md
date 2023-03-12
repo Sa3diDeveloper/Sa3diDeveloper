@@ -1,6 +1,6 @@
 <h3 align="center">I'm Sa3di software engineer who specializes for Mobile app Development</h3>
-Hi 👋, I'm Saadi Nice to see you 😍😎.<br>
-I,am passionate about quality software & Programming.<br>
+Hi 👋, I'm Saadi Nice to see you 😍.<br>
+I,am passionate about quality of software & Programming.<br>
 
 Hi 👋🏻 I'm Saadi 👩‍💻💙📱 I am a mobile App development.<br>
 passionate about quality software & Programming &Ui/Ux Design.<br>
