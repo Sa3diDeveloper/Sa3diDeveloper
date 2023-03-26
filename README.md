@@ -36,16 +36,7 @@ I live in Iraq-Kurdistan. I speak English, fluent Kurdish.<br>
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
                 width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35"
-<!--                 height="35" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                alt="linux" width="40" height="40" /> </a> <a href="https://www.microsoft.com/en-us/sql-server"
-            target="_blank" rel="noreferrer"> <img
-                src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
-                height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-        </a>
-        <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40" /> </a> </p> -->
+               height="35" /> </a>  </p>
 
 
 
