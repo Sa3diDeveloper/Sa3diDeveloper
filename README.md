@@ -2,7 +2,7 @@
 
 Hi 👋🏻 I'm Saadi 👩‍💻💙📱 I,am a mobile App developer.<br>
 passionate about quality software & Programming.<br>
-Focusing on Flutter, Firebase, Sqlite, Dart, Java, Kotlin and DevOps Engineering.<br>
+Focusing on Flutter, Firebase, Sqlite, Dart, Java, Kotlin.<br>
 A few facts about me:
 👩‍💻 For 3 years I have been creating cross-platform apps using Flutter.<br>
 😍 I,am passionate about what I do, and programming is my major hobby.<br>
