@@ -1,7 +1,7 @@
 <h3 align="center">I'm Sa3di software engineer who specializes for Mobile app Development</h3>
 
 Hi 👋🏻 I'm Saadi 👩‍💻💙📱 I,am a mobile App developer.<br>
-passionate about quality software & Programming .<br>
+passionate about quality software & Programming.<br>
 Focusing on Flutter, Firebase, Sqlite, Dart, Java, Kotlin and DevOps Engineering.<br>
 A few facts about me:
 👩‍💻 For 3 years I have been creating cross-platform apps using Flutter.<br>
