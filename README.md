@@ -1,4 +1,4 @@
-<h3 align="center">I'm Sa3di software engineer who specializes for Mobile app Development</h3>
+<h3 align="center">I'm Sa3di Mobile app Developer</h3>
 
 Hi 👋🏻 I'm Saadi 💙📱 I,am a mobile App developer👩‍💻.<br>
 passionate about quality software & Programming.<br>
