@@ -9,7 +9,7 @@ A few facts about me:<br>
 💙 I,am a Freelancer Developer in Dart and Flutter.<br>
 ✍🏻 I also have an interest in mobile apps design.<br>
 I live in Iraq-Kurdistan. I speak English, and fluent Kurdish.<br>
-
+if you want to work with open source project text me through my social accounts
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
