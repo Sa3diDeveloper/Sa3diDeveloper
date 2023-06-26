@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋🏻 I'm Saadi 💙📱 Mobile App developer👩‍💻.<br>passionate about quality software & Programming.<br>Focusing on Flutter, Firebase, Sqlite, Dart, Kotlin.<br>A few facts about me:<br>👩‍💻 For 3 years I have been creating cross-platform apps using Flutter.<br>😍 I,am passionate about what I do, and programming is my major hobby.<br>💙 I,am a Mobile App Developer Freelancer.<br>✍🏻 I also have an interest in mobile apps design.<br>I live in Iraq-Kurdistan. I speak English, and fluent Kurdish.<br>if you want to work with open source project text me through my social accounts
+Hi 👋🏻 I'm Saadi 💙📱 Mobile App developer👩‍💻.<br>passionate about quality software & Programming.<br>Focusing on Flutter, Firebase, Sqlite, Dart, Kotlin.<br>A few facts about me:<br>👩‍💻 For 3 years I have been creating cross-platform apps using Flutter.<br>😍 I,am passionate about what I do, and programming is my major hobby.<br>💙 I,am a Mobile App Developer Freelancer.<br>✍🏻 I also have an interest in mobile apps design.<br>I live in Iraq-Kurdistan. I speak English, and fluent Kurdish. <br>if you want to work with open source project text me through my social accounts
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sa3diprogrammer) 
