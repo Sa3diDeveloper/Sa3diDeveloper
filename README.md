@@ -1,18 +1,62 @@
-# 💫 About Me:
-Hi 👋🏻 I'm Saadi 💙📱 Mobile App developer👩‍💻.<br>passionate about quality software & Programming.<br>Focusing on Flutter, Firebase, Sqlite, Dart, Kotlin.<br>A few facts about me:<br>👩‍💻 For 3 years I have been creating cross-platform apps using Flutter.<br>😍 I,am passionate about what I do, and programming is my major hobby.<br>💙 I,am a Mobile App Developer Freelancer.<br>✍🏻 I also have an interest in mobile apps design.<br>I live in Iraq-Kurdistan. I speak English, and fluent Kurdish.
-## 🌐 Socials:
+<h1 align="left">Hey 👋 What's up?</h1>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sa3diprogrammer) 
-# 💻 Tech Stack:
+###
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sa3diDeveloper&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<h1 align="left">My name is saadi and I'm a Mobile app develoer, from Kurdistan.</h1>
 
+###
 
+<h1 align="center">About me</h1>
 
----
-<!-- [![](https://visitcount.itsvg.in/api?id=Sa3diDeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
- -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Hi 👋🏻 I'm Saadi 💙📱 Mobile App developer👩‍💻.<br>passionate about quality software & Programming.<br>📚 I'm currently learning: Flutter, Firebase, Sqlite, Dart, Kotlin.<br>🎲 A few facts about me:<br>👩‍💻 For 3 years I have been creating cross-platform apps using Flutter.<br>😍 I,am passionate about what I do, and programming is my major hobby.<br>💙 I,am a Mobile App Developer Freelancer.<br>✍🏻 I also have an interest in mobile apps design.<br>I live in Iraq-Kurdistan. I speak English, and fluent Kurdish.</h3>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
+</div>
+
+###
+
+<h3 align="left">My Socials:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/sa3diprogrammer/?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/saadi-zebari-810432254/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sa3diDeveloper&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
