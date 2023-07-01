@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🎲 A few facts about me:<br>••0️⃣ 👩‍💻 For 3 years I have been creating cross-platform apps using Flutter, to delivering functional and beautiful products to happy end-users..<br>😍 I,am passionate about what I do, and programming is my major hobby.<br>💙 I,am a Mobile App Developer Freelancer.<br>✍🏻 I also have an interest in mobile apps design.<br>I live in Iraq-Kurdistan. I speak English, and fluent Kurdish.</h4>
+<h4 align="left">🎲 A few facts about me:<br>• 👩‍💻 For 3 years I have been creating cross-platform apps using Flutter, to delivering functional and beautiful products to happy end-users..<br>• 😍 I,am passionate about what I do, and programming is my major hobby.<br>• 💙 I,am a Mobile App Developer Freelancer.<br>• ✍🏻 I also have an interest in mobile apps design.<br>I live in Iraq-Kurdistan. I speak English, and fluent Kurdish.</h4>
 
 ###
 
