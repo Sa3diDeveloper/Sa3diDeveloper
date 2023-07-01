@@ -10,10 +10,6 @@
 
 ###
 
-<h3 align="left">I code with</h3>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
@@ -36,7 +32,7 @@
 
 ###
 
-<h3 align="left">My Socials:</h3>
+<h3 align="left">My Socials Accounts:</h3>
 
 ###
 
