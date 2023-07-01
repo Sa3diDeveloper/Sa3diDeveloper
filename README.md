@@ -1,9 +1,12 @@
-<b align="left">Hi 👋🏻 I'm Saadi 💙📱 Mobile App developer👩‍💻.</b>
-<h3 align="left">passionate about quality software & Programming.<br>📚 I'm currently learning: Flutter, Firebase, Sqlite, Dart, Kotlin.<br>🎲 A few facts about me:<br>👩‍💻 For 3 years I have been creating cross-platform apps using Flutter.<br>😍 I,am passionate about what I do, and programming is my major hobby.<br>💙 I,am a Mobile App Developer Freelancer.<br>✍🏻 I also have an interest in mobile apps design.<br>I live in Iraq-Kurdistan. I speak English, and fluent Kurdish.</h3>
+<h2 align="left">Hi 👋🏻 I'm Saadi 💙📱 Mobile App developer👩‍💻.</h2>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h4 align="left">i,am passionate about quality software & Programming.<br>📚 I'm currently learning: Flutter, Firebase, Sqlite, Dart, Kotlin.<br>🎲 A few facts about me:<br>👩‍💻 For 3 years I have been creating cross-platform apps using Flutter.<br>😍 I,am passionate about what I do, and programming is my major hobby.<br>💙 I,am a Mobile App Developer Freelancer.<br>✍🏻 I also have an interest in mobile apps design.<br>I live in Iraq-Kurdistan. I speak English, and fluent Kurdish.</h4>
+
+###
+
+<h3 align="left">I code with</h3>
 
 ###
 
