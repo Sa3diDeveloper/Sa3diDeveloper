@@ -1,16 +1,5 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h3 align="left">My name is saadi and I'm a Mobile app develoer, from Kurdistan.</h3>
-
-###
-
-<h1 align="center">About me</h1>
-
-###
-
-<h3 align="left">Hi 👋🏻 I'm Saadi 💙📱 Mobile App developer👩‍💻.<br>passionate about quality software & Programming.<br>📚 I'm currently learning: Flutter, Firebase, Sqlite, Dart, Kotlin.<br>🎲 A few facts about me:<br>👩‍💻 For 3 years I have been creating cross-platform apps using Flutter.<br>😍 I,am passionate about what I do, and programming is my major hobby.<br>💙 I,am a Mobile App Developer Freelancer.<br>✍🏻 I also have an interest in mobile apps design.<br>I live in Iraq-Kurdistan. I speak English, and fluent Kurdish.</h3>
+<b align="left">Hi 👋🏻 I'm Saadi 💙📱 Mobile App developer👩‍💻.</b>
+<h3 align="left">passionate about quality software & Programming.<br>📚 I'm currently learning: Flutter, Firebase, Sqlite, Dart, Kotlin.<br>🎲 A few facts about me:<br>👩‍💻 For 3 years I have been creating cross-platform apps using Flutter.<br>😍 I,am passionate about what I do, and programming is my major hobby.<br>💙 I,am a Mobile App Developer Freelancer.<br>✍🏻 I also have an interest in mobile apps design.<br>I live in Iraq-Kurdistan. I speak English, and fluent Kurdish.</h3>
 
 ###
 
