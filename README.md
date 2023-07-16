@@ -3,7 +3,6 @@
 ###
 
 
-
 <h3 align="left">i,am Mobile App developer👩‍💻. passionate about quality software & Programming. <br>📚 I'm currently learning: Flutter, Firebase, Sqlite, Dart, Kotlin.</h3>
 
 ###
